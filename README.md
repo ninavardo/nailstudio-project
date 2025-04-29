@@ -13,5 +13,5 @@ This is one of my first web development projects — a beautiful and simple webs
 - CSS3
 
 ## 🌐 Live Demo
-Coming soon...
+[![Live Demo](https://img.shields.io/badge/Live-Demo-purple?style=for-the-badge)](https://ninavardo.github.io/nailstudio-project/)
 
